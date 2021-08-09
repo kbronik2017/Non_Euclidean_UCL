@@ -35,6 +35,10 @@
 <br>
  <img height="510" src="images/vae5.jpg"/>
 </br>
+
+# Parallel running
+
+
 <br>
  <img height="510" src="images/vae6.jpg"/>
 </br>
