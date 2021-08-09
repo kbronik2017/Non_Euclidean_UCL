@@ -34,7 +34,9 @@ Then
 
 
 ```sh
-  - conda env create -f train_test_environment.yml  
+  - conda env create -f train_test_environment.yml
+  or
+  - conda create --name idp --file clone-file.txt
 ``` 
 and 
 
