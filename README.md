@@ -26,6 +26,8 @@
 <br>
  <img height="510" src="images/vae6.jpg"/>
 </br>
+
+
 # Running the GUI Program! 
 
 First, user needs to install Anaconda https://www.anaconda.com/
