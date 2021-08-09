@@ -11,18 +11,27 @@
 <br>
  <img height="510" src="images/vae1.jpg"/>
 </br>
-# Undirected Configuration Model (UCM)
+
 <br>
  <img height="510" src="images/vae2.jpg"/>
 </br>
-# Weighted Configuration Model (WCM)
+
+# Undirected Configuration Model (UCM)
+
+
 <br>
  <img height="510" src="images/vae3.jpg"/>
 </br>
-# Reciprocal Configuration Model (RCM)
+
+# Weighted Configuration Model (WCM)
+
 <br>
  <img height="510" src="images/vae4.jpg"/>
 </br>
+
+# Reciprocal Configuration Model (RCM)
+
+
 <br>
  <img height="510" src="images/vae5.jpg"/>
 </br>
