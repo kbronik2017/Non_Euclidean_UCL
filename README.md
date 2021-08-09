@@ -1,3 +1,8 @@
+[![GitHub issues](https://img.shields.io/github/issues/kbronik2017/UCL_MS)](https://github.com/kbronik2017/UCL_MS/issues)
+[![GitHub forks](https://img.shields.io/github/forks/kbronik2017/UCL_MS)](https://github.com/kbronik2017/UCL_MS/network)
+[![GitHub stars](https://img.shields.io/github/stars/kbronik2017/UCL_MS)](https://github.com/kbronik2017/UCL_MS/stargazers)
+[![GitHub license](https://img.shields.io/github/license/kbronik2017/UCL_MS)](https://github.com/kbronik2017/UCL_MS/blob/master/LICENSE)
+
 # Variational Deep Learning models for non Euclidean structure
 <br>
  <img height="310" src="images/graph.gif"/>
