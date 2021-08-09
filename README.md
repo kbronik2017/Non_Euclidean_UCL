@@ -1,4 +1,4 @@
-# non_euclidean_ucl
+# Variational Deep Learning models for non Euclidean structure
 <br>
  <img height="310" src="images/graph.gif"/>
 </br>
