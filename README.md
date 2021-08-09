@@ -50,6 +50,6 @@ After lunching the graphical user interface, user will need to provide necessary
 
 # Testing the Program (User Quick Start Guide) 
 Examples of Training, Cross-validation and Testing subjects can be found in:
-https://github.com/kbronik2017/UCL_MS/tree/master/examples/mnist_dataset 
+https://github.com/kbronik2017/Non_Euclidean_UCL/tree/main/training_testing_examples 
 (which will allow users to quickly and easily train and test the program)
 
