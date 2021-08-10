@@ -18,6 +18,15 @@
 Click on the following link to access further information on mathematical presentation of variational autoencoder
 https://github.com/kbronik2017/Non_Euclidean_UCL/blob/main/references/Auto-Encoding.pdf
 
+<br>
+ <img height="510" src="images/math1.jpg"/>
+</br>
+<br>
+ <img height="510" src="images/math2.jpg"/>
+</br>
+Click on the following link to access further information on mathematics of analytical methods
+https://github.com/kbronik2017/Non_Euclidean_UCL/blob/main/references/Squartini_2011_New_J._Phys._13_083001.pdf
+
 # Undirected Configuration Model (UCM)
 
 
