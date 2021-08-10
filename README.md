@@ -22,7 +22,7 @@ https://github.com/kbronik2017/Non_Euclidean_UCL/blob/main/references/Auto-Encod
  <img height="510" src="images/math1.jpg"/>
 </br>
 <br>
- <img height="510" src="images/math2.jpg"/>
+ <img height="510" src="images/math2x.jpg"/>
 </br>
 Click on the following link to access further information on mathematics of analytical methods
 https://github.com/kbronik2017/Non_Euclidean_UCL/blob/main/references/Squartini_2011_New_J._Phys._13_083001.pdf
