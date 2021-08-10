@@ -15,6 +15,8 @@
 <br>
  <img height="510" src="images/vae2.jpg"/>
 </br>
+Click on the following link to access further information on mathematical presentation of variational autoencoder
+https://github.com/kbronik2017/Non_Euclidean_UCL/blob/main/references/Auto-Encoding.pdf
 
 # Undirected Configuration Model (UCM)
 
