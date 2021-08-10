@@ -107,7 +107,7 @@ The results of testing(inference) can be found in the folders:
 ```sh
   - prediction_image_outputs
   and
-  - matrix_outputand 
+  - matrix_output
 ``` 
 
 
