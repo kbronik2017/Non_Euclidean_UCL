@@ -23,17 +23,31 @@
  <img height="510" src="images/vae3.jpg"/>
 </br>
 
+
+<br>
+ <img height="510" src="images/vae33.jpg"/>
+</br>
+
 # Weighted Configuration Model (WCM)
 
 <br>
  <img height="510" src="images/vae4.jpg"/>
 </br>
 
+<br>
+ <img height="510" src="images/vae44.jpg"/>
+</br>
+
+
 # Reciprocal Configuration Model (RCM)
 
 
 <br>
  <img height="510" src="images/vae5.jpg"/>
+</br>
+
+<br>
+ <img height="510" src="images/vae55.jpg"/>
 </br>
 
 # Parallel running
