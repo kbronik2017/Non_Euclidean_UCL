@@ -103,4 +103,11 @@ After lunching the graphical user interface, user will need to provide necessary
 Examples of Training, Cross-validation and Testing subjects can be found in:
 https://github.com/kbronik2017/Non_Euclidean_UCL/tree/main/training_testing_examples 
 (which will allow users to quickly and easily train and test the program)
+The results of testing(inference) can be found in the folders:
+```sh
+  - prediction_image_outputs
+  and
+  - matrix_outputand 
+``` 
+
 
