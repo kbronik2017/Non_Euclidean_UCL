@@ -64,7 +64,7 @@ https://github.com/kbronik2017/Non_Euclidean_UCL/blob/main/references/Squartini_
 # Reonstruction Network (RCON)
 
 <br>
- <img height="510" src="images/vaer.jpg"/>
+ <img height="510" src="images/vaerx.jpg"/>
 </br>
 
 # Parallel running
